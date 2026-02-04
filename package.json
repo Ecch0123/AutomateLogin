@@ -1,4 +1,9 @@
 {
+
+     "name": "logautomates",
+    "version": "1.0.0",
+    "type": "module",
+     "description": "Automated log check-in and check-out using Playwright",
     "scripts": {
     "checkin": "node scripts/checkin.js",
     "checkout": "node scripts/checkout.js",
