@@ -1,6 +1,6 @@
 export const CHECKIN_TIME = {
   hour: 20,   
-  minute: 1
+  minute: 25
 };
 
 
