@@ -2,7 +2,8 @@
     "scripts": {
     "checkin": "node scripts/checkin.js",
     "checkout": "node scripts/checkout.js",
-    "start": "node autoScheduler.js"
+    "start": "node autoScheduler.js",
+     "postinstall": "npx playwright install --with-deps"
   },
 
   "dependencies": {
