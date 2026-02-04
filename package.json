@@ -1,0 +1,14 @@
+{
+    "scripts": {
+    "checkin": "node scripts/checkin.js",
+    "checkout": "node scripts/checkout.js",
+    "start": "node autoScheduler.js"
+  },
+
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "node-cron": "^4.2.1",
+    "playwright": "^1.58.1"
+  }
+}
+
